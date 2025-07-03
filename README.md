@@ -3,12 +3,12 @@
 This repository contains a machine learning project for predicting the likelihood of heart disease based on various health-related features. The aim is to assist early diagnosis and preventive treatment through data-driven analysis.
 
 ## 📌 Table of Contents
-- [Overview](##overview)
-- [Features](##features)
-- [Installation](##installation)
-- [Usage](##usage)
-- [Model Performance](##model-performance)
-- [License](##license)
+- [Overview](#-overview)
+- [Features](#-features)
+- [Installation](#-installation)
+- [Usage](#-usage)
+- [Model Performance](#-model-performance)
+- [License](#-license)
 
 ---
 
